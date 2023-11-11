@@ -1,7 +1,7 @@
 ### Hell is other people
 
 - 💬 Ask me about stuff
-- ⚡ Fun fact: kangaroos can't move their legs independently of one another
+- ⚡ Fun fact: [this space intentionally left blank]
 
 <!--
 **fexofenadine/fexofenadine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
